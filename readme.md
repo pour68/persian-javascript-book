@@ -2,7 +2,8 @@
 
 ## پیش نیازها
 
-Advance text editor(VSCode - Atom - Sublime text - ...) - Web Browser (Chrome - Firefox - Edge - Opera - ...)
+- Advance text editor(VSCode - Atom - Sublime text - ...)
+- Web Browser (Chrome - Firefox - Edge - Opera - ...)
 
 ## افزونه های vscode
 
