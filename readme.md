@@ -1,20 +1,17 @@
 # JavaScript
 
-## سبک نگارش
+## نوع دیتای رشته(string)
 
-camelCase
+این نوع از دیتا از به هم وصل کردن کاراکترهای مختلف ایجاد می شود، به عبارت دیگر این نوع از دیتا از مجموعه ای از کاراکترهای تشکیل می شود.
 
-## روش های مختلف افزودن جاوااسکریپت به سند HTML
+مثال:
 
-- inline
-- internal
-- external
-
-## افزودن نظر در کد(Comment)
-
-- single line
-- multiline
-
-## متغیرها(Variables)
-
-- var, let and const keywords
+```const fullName = "Pouria Nayeb"```
+```const username = "pouria-nayeb"```
+```const email = "pouria-nayeb@gmail.com"```
+```const phoneNumber = "0935442549"```
+```const job = "programmer"```
+```const password = "pouria68$"```
+```const address = "Iran, Tehran , ..."```
+```const bookTitle = "Harry Potter and the Order of the Phoenix"```
+```const author = "J. K. Rowling"```
