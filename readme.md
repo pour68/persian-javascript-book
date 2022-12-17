@@ -8,7 +8,7 @@ Advance text editor(VSCode - Atom - Sublime text - ...) - Web Browser (Chrome - 
 
 Prettier - IntelliCode - JavaScript (ES6) code snippets - ESLint
 
-## Extension فایل جاوااسکریپتی
+## افزونه فایل جاوااسکریپتی
 
 .js
 
