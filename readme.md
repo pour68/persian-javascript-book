@@ -1,16 +1,24 @@
 # JavaScript
 
-در تمام زبان های برنامه نویسی انواع داده به دو دسته value-type و reference-type تقسیم می شوند.
-داده های value-type روی حافظه کوتاه مدت کامپیوتر(stack) و داده های reference-type روی حافظه طولانی مدت کامپیوتر(heap) قرار می گیرند.
+## سبک نگارش
 
-## DataTypes
+camelCase
 
-در زبان برنامه نویسی جاوااسکریپت انواع داده به صورت زیر دسته بندی می شوند.
+## روش های مختلف افزودن جاوااسکریپت به سند HTML
 
-### Primitives(Value-Types)
+- inline
+- internal
+- external
 
-string - number - boolean - undefined - null - date - symbol
+---
 
-### Reference-Types(Non-Primitives)
+## افزودن نظر در کد(Comment)
 
-object - array - function - class
+- single line
+- multiline
+
+---
+
+## متغیرها(Variables)
+
+- var, let and const keywords
