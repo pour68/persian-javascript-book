@@ -8,10 +8,11 @@
 
 ## تاریخچه
 
-- Founder: Brendan Eich (American computer programmer and technology executive born in july 4, 1961)
-- Invention-Year: December 4, 1995
-- ECMA-Standard: 1997
-در ابتدا نام این زبان Mocha سپس LiveScript و در انتها با نام JavaScript نام گذاری شد.
+- خالق: Brendan Eich (American computer programmer and technology executive born in july 4, 1961)
+- سال ایجاد: December 4, 1995
+- تاریخ استانداردسازی: 1997
+- داستان: نام اولیه این زبان Mocha، سپس LiveScript و در انتها به دلیل محبوبیت زبان برنامه نویسی Java نامش به JavaScript تغییر یافت.
+
 
 ### معنای ECMA
 
