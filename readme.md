@@ -9,7 +9,7 @@
 
 ### داده های اولیه (Value-Types)
 
-string - number - boolean - undefined - null - date - symbol
+string - number - boolean - undefined - null - symbol
 
 ### داده های غیر اولیه (Reference-Types)
 
