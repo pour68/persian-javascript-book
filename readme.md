@@ -10,14 +10,10 @@ camelCase
 - internal
 - external
 
----
-
 ## افزودن توضیحات در کد(Comment)
 
 - single line
 - multiline
-
----
 
 ## متغیرها(Variables)
 
