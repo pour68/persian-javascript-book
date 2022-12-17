@@ -1,6 +1,6 @@
 # JavaScript
 
-## پیش نیازها
+## ابزارهای مورد نیاز
 
 - Advance text editor(VSCode - Atom - Sublime text - ...)
 - Web Browser (Chrome - Firefox - Edge - Opera - ...)
