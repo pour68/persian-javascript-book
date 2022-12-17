@@ -1,21 +1,24 @@
 # JavaScript
 
-## پیش نیازها
+## سبک نگارش در زبان برنامه نویسی جاوااسکریپت
 
-- Advance text editor(VSCode - Atom - Sublime text - ...)
-- Web Browser (Chrome - Firefox - Edge - Opera - ...)
+camelCase
 
-## افزونه های vscode
+## راه های مختلف افزودن جاوااسکریپت به سند HTML
 
-- Prettier
-- IntelliCode
-- JavaScript (ES6) code snippets
-- ESLint
+- inline
+- internal
+- external
 
-## افزونه فایل جاوااسکریپتی
+---
 
-.js
+## افزودن توضیحات در کد(Comment)
 
-## نام فولدرهای مرسوم برای جاوااسکریپت در پروژه ها
+- single line
+- multiline
 
-js - scripts
+---
+
+## متغیرها(Variables)
+
+- var, let and const keywords
