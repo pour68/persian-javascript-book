@@ -13,5 +13,7 @@
 - ```const job = "programmer"```
 - ```const password = "pouria68$"```
 - ```const address = "Iran, Tehran , ..."```
+- ```const legend = "Ali Daei"```
+- ```const tags = "xbox series x, xbox series s, 9th generation consoles"```
 - ```const bookTitle = "Harry Potter and the Order of the Phoenix"```
-- ```const author = "J. K. Rowling"```
+- ```const bookAuthor = "J. K. Rowling"```
